@@ -63,7 +63,10 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 <img width="1920" height="1200" alt="Screenshot 2026-10-24 102332" src="https://github.com/user-attachments/assets/d054885e-1135-4f36-ba78-00afde9d5962" />
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/3f6126a3-e4a1-45aa-9cc5-0c5adb3a4d6f" />
 <img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/2dd0a266-3463-4535-ad09-0fc211280041" />
+<img width="1007" height="596" alt="Screenshot 2026-10-27 155210" src="https://github.com/user-attachments/assets/1afbb780-c19e-453f-83d5-26ce21231b92" />
+<img width="935" height="588" alt="image" src="https://github.com/user-attachments/assets/4bac77a7-b64f-474e-98c1-b45f520b09df" />
 
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
