@@ -63,6 +63,7 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 <img width="1920" height="1200" alt="Screenshot 2026-10-24 102332" src="https://github.com/user-attachments/assets/d054885e-1135-4f36-ba78-00afde9d5962" />
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/2dd0a266-3463-4535-ad09-0fc211280041" />
 
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
